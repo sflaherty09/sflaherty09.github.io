@@ -4,12 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Hi, my name is Sean Flaherty and I am a Senior at Ramapo College of New Jersey studying Computer Science. I made this website to compile all the work I have done into one place. Here you will find websites or pieces of software I have worked on through shcool or websites I helped to design through my tenure at Tranquility49 PR. I am interested in the Web Development field and am working towards one day being a Full Stack Engineer. 
