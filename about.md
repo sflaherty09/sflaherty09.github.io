@@ -12,3 +12,14 @@ Hi, my name is Sean Flaherty and I am a Senior at Ramapo College of New Jersey s
 <div class="new class">
   <h2>HERE</h2>
   </div>
+  
+  
+  
+  
+  <div id="publitas-embed-sad08m5xnl"> </div>
+<script src="https://view.publitas.com/embed.js" data-cfasync="false" data-height="undefined" data-publication="https://view.publitas.com/walker-furniture/grand-opening-magalog/" data-publication-aspect-ratio="1.5403181568842568" data-responsive="true" data-width="undefined" data-wrapperid="publitas-embed-sad08m5xnl"></script>
+<p> </p>
+<h3>Past Issues</h3>
+<p><a href="https://view.publitas.com/walker-furniture/comforts-of-home-summer-2018" target="_blank">Summer 2018</a></p>
+<p><a href="https://view.publitas.com/walker-furniture/walker-furniture-spring-2018" target="_blank">Spring 2018</a></p>
+<p><a href="https://view.publitas.com/walker-furniture/walker-furniture-primavera-2018" target="_blank">Primavera 2018</a></p>
